@@ -1,0 +1,7 @@
+C:\Users\olive\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\olive\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\olive\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\olive\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\olive\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\olive\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\olive\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
